@@ -81,7 +81,7 @@
 
       <div v-if="total > 0" class="my-5 space-y-3 bg-gray-50 p-5">
         <h2 class="text-2xl font-extrabold text-gray-500 text-center">
-            Resumen <span class="text-indigo-600">de pagos unicas</span>
+            Resumen <span class="text-indigo-600">de pagos unicasaa</span>
         </h2>
 
         <p class="text-xl text-gray-500 text-center font-bold">{{meses}} Meses</p>
